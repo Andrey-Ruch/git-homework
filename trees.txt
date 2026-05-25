@@ -3,4 +3,5 @@ pine
 maple
 birch
 willow
-sycamore 
+sycamore
+spruce
